@@ -1,1 +1,60 @@
-/bower_components/
+*.swp
+npm-debug.log
+/test/bin
+/test/output.log
+/test/*/*/node_modules
+/test/packages/npm-test-depends-on-spark/which-spark.log
+/test/packages/test-package/random-data.txt
+/test/root
+/node_modules/marked-man
+/node_modules/tap
+/node_modules/nock
+/node_modules/.bin
+/node_modules/npm-registry-mock
+/node_modules/marked
+/node_modules/require-inject
+/html/api/
+/html/partial/
+/html/doc/
+/man/
+/doc/*/npm-index.md
+/npmrc
+/release/
+/npm-*.tgz
+/node_modules/npm-registry-client/test/fixtures
+/node_modules/npm-registry-couchapp
+*.pyc
+.jshintrc
+.eslintrc
+
+/node_modules
+/npm-debug.log
+
+/test/assets/package-*/
+/test/assets/temp-*/
+/test/reports
+/test/tmp/
+
+/bower.json
+/component.json
+/bower_components
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
