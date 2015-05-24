@@ -1,0 +1,18 @@
+{
+  "name": "Science Break",
+  "description": "TBD",
+  "version": "1.0.0",
+  "homepage": "http://www.sciencebreak.cz",
+  "license": "The MIT License (MIT)",
+  "authors": [
+    "Jirka Penzes <jirkapenzes@gmail.com>",
+    "Emil Rezanina <rezanina.emil@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jirkapenzes/sciencebreak.git"
+  },
+  "dependencies": {
+    "pure": "0.6.0"
+  }
+}
